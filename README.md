@@ -1,1 +1,1 @@
-# Numpy-Praactice
+# Numpy-Practice
